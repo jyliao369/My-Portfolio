@@ -1,0 +1,57 @@
+* {
+
+}
+
+.navbar {
+    display: flex;
+    list-style-type: none;
+    float: right;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+a {
+    display: inline;
+}
+
+.info {
+    position: relative;
+    margin-left: 200px;
+    margin-top: -50px;
+    border-left: 2px solid black;
+}
+
+.info p {
+    margin: 15px;
+}
+
+.MyWorks {
+    position: relative;
+    margin-left: 200px;
+    margin-top: -50px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    border-left: 2px solid black;
+}
+
+.works {
+    width: 475px;
+    height: 150px;
+    border-style: solid;
+    border-width: 2px;
+    margin: 15px;
+}
+
+.contacts {
+    position: relative;
+    margin-left: 200px;
+    margin-top: -50px;
+    border-left: 2px solid black;
+}
+
+.infos {
+    display: block;
+    list-style-type: none;
+}
