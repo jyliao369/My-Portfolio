@@ -1,53 +1,69 @@
 * {
+    padding: 0px;
+    margin: 0px;
 
 }
+/* HEADERS CUSTOMIZATION */
+h1 {
+    padding: 10px;
+    margin: 10px;
+}
 
+h2 {
+    font-size: 135%;
+    margin-top: 10px;
+}
+
+/* NAVBAR CUSTOMIZATION  */
 .navbar {
     display: flex;
     list-style-type: none;
-    float: right;
-    justify-content: space-evenly;
     align-items: center;
+    width: 100%;
+    background-color: cornflowerblue;
 }
 
 a {
     display: inline;
+    padding: 13px;
+    margin: 0px;
+    font-size: 25px;
 }
 
+/* ABOUT ME SECTION */
 .info {
     position: relative;
-    margin-left: 200px;
-    margin-top: -50px;
+    margin-left: 10%;
     border-left: 2px solid black;
 }
 
-.info p {
+p {
     margin: 15px;
 }
 
+/* MY WORKS SECTION */
 .MyWorks {
     position: relative;
-    margin-left: 200px;
-    margin-top: -50px;
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
     justify-content: space-around;
+    margin-left: 10%;
     border-left: 2px solid black;
 }
 
 .works {
-    width: 475px;
-    height: 150px;
+    width: 45%;
+    height: 200px;
     border-style: solid;
     border-width: 2px;
     margin: 15px;
 }
 
+/* CONTACT INFORMATION SECTION */
 .contacts {
     position: relative;
-    margin-left: 200px;
-    margin-top: -50px;
+    margin-left: 10%;
     border-left: 2px solid black;
 }
 
