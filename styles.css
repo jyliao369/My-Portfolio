@@ -11,8 +11,12 @@ h1 {
 }
 
 h2 {
-    font-size: 135%;
-    margin-top: 10px;
+    font-size: 200%;
+    margin: 25px;
+    border-style: solid;
+    width: 15%;
+    padding: 10px;
+    text-align: center;
 }
 
 /* NAVBAR CUSTOMIZATION  */
@@ -25,7 +29,7 @@ h2 {
     margin-bottom: 20px;
 }
 
-a {
+.navbar a {
     display: inline;
     padding: 13px;
     margin: 0px;
@@ -34,9 +38,7 @@ a {
 
 /* ABOUT ME SECTION */
 .info {
-    position: relative;
-    margin-left: 10%;
-    border-left: 2px solid black;
+    
 }
 
 p {
@@ -45,17 +47,16 @@ p {
 
 /* MY WORKS SECTION */
 .MyWorks {
-    position: relative;
     display: flex;
-    flex-direction: row;
     flex-wrap: wrap;
-    justify-content: space-around;
-    margin-left: 10%;
-    border-left: 2px solid black;
+    /* position: relative; */
+    flex-direction: row;
+    /* margin-left: 10%;
+    border-left: 2px solid black; */
 }
 
 .works {
-    width: 45%;
+    width: 48%;
     height: 315px;
     margin: 15px;
 }
@@ -80,9 +81,7 @@ p {
 
 /* CONTACT INFORMATION SECTION */
 .contacts {
-    position: relative;
-    margin-left: 10%;
-    border-left: 2px solid black;
+
 }
 
 .infos {
