@@ -64,6 +64,11 @@ p {
     width: 47%;
     height: 315px;
     margin: 10px;
+    transition: transform 1s;
+}
+
+.works:hover {
+    transform: scale(1.045);
 }
 
 /* IMAGES */
