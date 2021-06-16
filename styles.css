@@ -2,6 +2,7 @@
     padding: 0px;
     margin: 0px;
     font-family: Arial, Helvetica, sans-serif;
+    background-color: paleturquoise;
 }
 
 /* HEADERS CUSTOMIZATION */
@@ -14,6 +15,9 @@ h2 {
     font-size: 150%;
     margin: 25px;
     border-style: solid;
+    border-width: thick;
+    border-radius: 30px;
+    border-color: darkblue;
     width: 15%;
     padding: 10px;
     text-align: center;
@@ -24,8 +28,9 @@ h2 {
     display: flex;
     list-style-type: none;
     width: 100%;
-    background-color: cornflowerblue;
+    background-color: lightskyblue;
     border-style: solid;
+    border-width: 5px;
     border-color: darkslateblue;
 }
 
@@ -34,12 +39,14 @@ h2 {
     padding: 10px;
     font-size: 20px;
     text-decoration: none;
+    font-weight: bold;
     border-style: solid;
     border-color: darkslateblue;
     margin: -2px;
     width: 25%;
     height: 30px;
     text-align: center;
+    background-color: cornflowerblue;
 }
 
 /* ABOUT ME SECTION */
@@ -89,10 +96,6 @@ p {
     background-position: center;
 }
 
-/* CONTACT INFORMATION SECTION */
-/* .contacts {
-
-} */
 
 .infos {
     list-style-type: none;
@@ -113,6 +116,14 @@ li {
     width: 100%;
 }
 
+/* Customizing the line breaks */
+.line {
+    border: 4px solid darkslateblue;
+    border-radius: 15px;
+    width: 98.5%;
+    margin-left: .5%;
+}
+
 /* THIS ADJUSTS THE CSS FILE TO BE RESPONSIVE BASED ON SCREEN SIZE */
 @media screen and (max-width: 768px) {
     
@@ -131,7 +142,7 @@ li {
         flex-direction: column;
     }
     .navbar a {
-        width: 97%;
+        width: 95%;
     }
     .navbar {
         flex-direction: column;

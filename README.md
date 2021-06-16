@@ -34,4 +34,4 @@ The goal of this activity is to give the developers a chance to use the knowledg
 ![Responsive Design](./screenshots/screenshot4.jpg)
 
 -The design for mobile website-
-![Mobile Design](./screenshots/screenshot4.jpg)
+![Mobile Design](./screenshots/screenshot5.jpg)
