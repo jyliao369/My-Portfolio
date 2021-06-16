@@ -24,5 +24,14 @@ The goal of this activity is to give the developers a chance to use the knowledg
 * Learning how to adjust the web application to be responsive through CSS adjustments as well as media queries.
 
 ## Screenshots
+-The basic look of the portfolio with a placeholder background image-
+![Basic Look](./screenshots/screenshot3.jpg)
 
-![Getting Started](./screenshots/screenshot1.jpg)
+-Adding different images for each icon on the Works section-
+![Adding Pictures](./screenshots/screenshot1.jpg)
+
+-Adjusting the responsiveness and the overall design for desktop view-
+![Responsive Design](./screenshots/screenshot4.jpg)
+
+-The design for mobile website-
+![Mobile Design](./screenshots/screenshot4.jpg)
