@@ -24,3 +24,5 @@ The goal of this activity is to give the developers a chance to use the knowledg
 * Learning how to adjust the web application to be responsive through CSS adjustments as well as media queries.
 
 ## Screenshots
+
+![Getting Started](./screenshots/screenshot1.jpg)
