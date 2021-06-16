@@ -8,7 +8,13 @@
 /* HEADERS CUSTOMIZATION */
 h1 {
     padding: 10px;
-    margin: 10px;
+    margin: 22px;
+    border-style: solid;
+    border-width: 5px;
+    border-color: darkslateblue;
+    border-radius: 24px;
+    width: 320px;
+    font-size: 30px;
 }
 
 h2 {
@@ -74,6 +80,18 @@ p {
     transition: transform 1s;
 }
 
+.iconTitle {
+    font-size: 130%;
+    padding: 10px;
+    position: absolute;
+    margin-top: -59px;
+    border-radius: 8px;
+    border-width: 4px;
+    border-style: solid;
+    border-color: indigo;
+    background-color: antiquewhite;
+}
+
 .works:hover {
     transform: scale(1.045);
 }
@@ -101,6 +119,7 @@ p {
     list-style-type: none;
     display: flex;
     background-color: lightcyan;
+    width: 100.6%;
 }
 
 li {
@@ -110,11 +129,11 @@ li {
     text-decoration: none;
     font-size: 20px;
     border-style: solid;
+    border-width: 7px;
     border-color: powderblue;
     margin: -1.1px;
     background-color: lightskyblue;
-    width: 100%;
-}
+    width: 98.1%;
 
 /* Customizing the line breaks */
 .line {
