@@ -27,11 +27,32 @@ The goal of this activity is to give the developers a chance to use the knowledg
 -The basic look of the portfolio with a placeholder background image-
 ![Basic Look](./screenshots/screenshot3.jpg)
 
+
 -Adding different images for each icon on the Works section-
 ![Adding Pictures](./screenshots/screenshot1.jpg)
+
 
 -Adjusting the responsiveness and the overall design for desktop view-
 ![Responsive Design](./screenshots/screenshot4.jpg)
 
+
 -The design for mobile website-
 ![Mobile Design](./screenshots/screenshot5.jpg)
+
+
+-Works Image Icons Expand When Hover-
+![ExpandingWorkIcons](./screenshots/screenshot6.JPG)
+
+
+-Completed Web Application-
+![Completed](./screenshots/screenshot7.JPG)
+
+
+![Completed](./screenshots/screenshot8.JPG)
+
+
+## Completed Application
+
+GitHub Repo:
+
+Deployed Application:
