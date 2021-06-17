@@ -53,6 +53,6 @@ The goal of this activity is to give the developers a chance to use the knowledg
 
 ## Completed Application
 
-GitHub Repo:
+GitHub Repo: https://github.com/jyliao369/My-Portfolio
 
-Deployed Application:
+Deployed Application: https://jyliao369.github.io/My-Portfolio/
